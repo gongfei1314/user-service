@@ -1,0 +1,12 @@
+com\lerong\userservice\dto\UserUpdateRequest.class
+com\lerong\userservice\exception\ResourceNotFoundException.class
+com\lerong\userservice\exception\GlobalExceptionHandler.class
+com\lerong\userservice\dto\UserResponse.class
+com\lerong\userservice\dto\UserCreateRequest.class
+com\lerong\userservice\controller\UserController.class
+com\lerong\userservice\UserServiceApplication.class
+com\lerong\userservice\entity\User.class
+com\lerong\userservice\repository\UserRepository.class
+com\lerong\userservice\service\UserService.class
+com\lerong\userservice\exception\ErrorResponse$ErrorResponseBuilder.class
+com\lerong\userservice\exception\ErrorResponse.class
